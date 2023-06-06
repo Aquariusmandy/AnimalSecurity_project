@@ -1,0 +1,7 @@
+.rectangle-container {
+  background-color: #ccc;
+  margin: 0 auto;
+  width: 600px;
+  padding: 20px;
+  box-sizing: border-box;
+}

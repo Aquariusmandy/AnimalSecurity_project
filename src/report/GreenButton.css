@@ -1,0 +1,10 @@
+.green-button {
+    background-color: #569b56;
+    border-radius: 20px; /* 設置圓角半徑 */
+    border: none; /* 移除邊框 */
+    color: white; /* 文字顏色 */
+    padding: 10px 20px; /* 內邊距 */
+    display: block; /* 設置為塊級元素 */
+    margin: 0 auto; /* 水平置中 */
+  }
+  

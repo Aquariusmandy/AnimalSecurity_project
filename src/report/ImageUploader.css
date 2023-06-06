@@ -1,0 +1,9 @@
+.uploaded-image {
+    max-width: 100%; /* 最大寬度 */
+    max-height: 100%; /* 最大高度 */
+  }
+  
+  .default-image {
+    max-width: 600px; /* 預設圖片的最大寬度 */
+    max-height: 600px; /* 預設圖片的最大高度 */
+  }

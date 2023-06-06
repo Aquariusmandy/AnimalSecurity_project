@@ -1,0 +1,17 @@
+.final-check {
+    font-family: Arial, sans-serif;
+    color: #333;
+    padding: 10px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+  }
+  
+  .final-check p {
+    margin: 0;
+    line-height: 1.5;
+  }
+  
+  .final-check strong {
+    font-weight: bold;
+  }
+  

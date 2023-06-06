@@ -1,0 +1,17 @@
+.checkbox-option input[type="checkbox"] {
+    width: 15px; /* 調整Checkbox的寬度 */
+    height: 15px; /* 調整Checkbox的高度 */
+    align-items: center;
+  }
+  
+  .checkbox-option label {
+    font-size: 20px; /* 調整文字大小 */
+    align-items: center;
+  }
+
+  .checkbox-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 140px;
+  }

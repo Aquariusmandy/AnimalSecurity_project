@@ -1,0 +1,46 @@
+.step-indicator {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    gap: 100px;
+  }
+
+  .step-indicator_text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    gap: 100px;
+  }
+  
+  .step-number {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: #8dd7ff;
+    font-size: 50px;
+    font-weight: bold;
+    color: #ffffff;
+  }
+  
+  .step-number.active {
+    background-color: #008c4b;
+    color: #ffffff;
+  }
+  .step-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 71px;
+    height: 71px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    font-size: 17px;
+    font-weight: bold;
+    color: #555555;
+  }
+  

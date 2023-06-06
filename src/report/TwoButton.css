@@ -1,0 +1,5 @@
+.button-container {
+    display: flex; /* 使用 Flexbox */
+    justify-content: space-between; /* 將按鈕間距平均分配 */
+    align-items: center; /* 垂直居中對齊按鈕 */
+  }
